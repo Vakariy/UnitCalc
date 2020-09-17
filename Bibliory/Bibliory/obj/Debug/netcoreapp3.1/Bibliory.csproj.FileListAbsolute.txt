@@ -1,0 +1,13 @@
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\bin\Debug\netcoreapp3.1\Bibliory.exe
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\bin\Debug\netcoreapp3.1\Bibliory.deps.json
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\bin\Debug\netcoreapp3.1\Bibliory.runtimeconfig.json
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\bin\Debug\netcoreapp3.1\Bibliory.runtimeconfig.dev.json
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\bin\Debug\netcoreapp3.1\Bibliory.dll
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\bin\Debug\netcoreapp3.1\Bibliory.pdb
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\obj\Debug\netcoreapp3.1\Bibliory.csprojAssemblyReference.cache
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\obj\Debug\netcoreapp3.1\Bibliory.AssemblyInfoInputs.cache
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\obj\Debug\netcoreapp3.1\Bibliory.AssemblyInfo.cs
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\obj\Debug\netcoreapp3.1\Bibliory.csproj.CoreCompileInputs.cache
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\obj\Debug\netcoreapp3.1\Bibliory.dll
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\obj\Debug\netcoreapp3.1\Bibliory.pdb
+C:\Users\ЛордКотДотКом\source\repos\Bibliory\Bibliory\obj\Debug\netcoreapp3.1\Bibliory.genruntimeconfig.cache
